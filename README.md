@@ -5,6 +5,13 @@ Data Analytics | Power Plattform Developer
 
 <img src= "https://i.postimg.cc/LXhzNY9k/final-logos-power-platform.webp" width=350/>
 
+<a href="https://www.linkedin.com/in/jardel-cherlle-nascimento-3103a814/">
+  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+
+
 <!--
 **jardelcherlle/jardelcherlle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
