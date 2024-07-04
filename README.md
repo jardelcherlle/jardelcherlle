@@ -3,7 +3,7 @@ Data Analytics | Power Plattform Developer
 - 🔭 I’m currently working on Vale S.A.
 - 🌱 I’m currently learning Data Science.
 
-<img src= "https://i.postimg.cc/LXhzNY9k/final-logos-power-platform.webp" width=320/>
+<img src= "https://i.postimg.cc/LXhzNY9k/final-logos-power-platform.webp" width=315/>
 
 <a href="https://www.linkedin.com/in/jardel-cherlle-nascimento-3103a814/">
   <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
