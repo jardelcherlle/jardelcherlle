@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hi, I'm Jardel Nascimento!
+Data Analytics | Power Plattform Developer
+- 🔭 I’m currently working on Vale S.A.
+- 🌱 I’m currently learning Data Science.
+
+<img src= "https://i.postimg.cc/LXhzNY9k/final-logos-power-platform.webp" width=350/>
 
 <!--
 **jardelcherlle/jardelcherlle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
